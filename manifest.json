@@ -53,7 +53,9 @@
     "vtex.condition-layout": "1.x",
     "vtex.app-store-price": "0.x",
     "vtex.app-store-components": "0.x",
-    "vtex.search": "1.x"
+    "vtex.search": "1.x",
+    "vtex.checkout-step-group": "0.x",
+    "vtex.checkout": "2.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
